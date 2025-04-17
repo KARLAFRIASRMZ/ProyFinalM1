@@ -1,0 +1,64 @@
+/*reglas generales*/
+
+/*Media Query*/
+
+/** Reescribir colores */
+
+/** Productos */
+
+span{
+    color:#037BC0;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+li{
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    float:inline-start
+}
+section.hero-image{
+    background-image: url("../img/principal.jpg");
+
+    background-size: cover;
+    
+}
+li a {
+    margin-left: 5px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+li input{
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    color: white; 
+    margin-left: 300px;
+}
+nav{
+    background-color: blue;
+}
+div.hero-text{
+text-align: center;
+padding-bottom: 50%;
+font-size: xx-large;
+color: white;
+}
+
