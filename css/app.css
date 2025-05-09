@@ -124,6 +124,11 @@ p{
     line-height: 50px;
 }
 
+.imagen {
+    width: 350px;
+    height: 250px;
+} 
+
 /* .row{
     border: 1px solid rgb(70, 69, 69);
 }  */
